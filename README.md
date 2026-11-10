@@ -8,7 +8,7 @@ You can find all songs listed in the [audio](./audio) directory!
 
 ## Domains
 
-- deadmau5.by0.link
+- deadmau5.unreleased.uk
 
 ## Disclaimer
 
@@ -24,4 +24,4 @@ This archive is maintained by a fan for the fan community to document informatio
 
 While this collection is no longer actively maintained, if you have information about additional unreleased tracks or corrections to existing entries, feel free to open an issue or submit a pull request.
 
-[E-Mail](mailto:reiner-ausdrucke-0g@icloud.com) - [Website](https://by0.link) - [GitHub](https://github.com/EinfachRuwen/deadmau5-unreleased/)
+[E-Mail](mailto:reiner-ausdrucke-0g@icloud.com) - [GitHub](https://github.com/EinfachRuwen/deadmau5-unreleased/)
